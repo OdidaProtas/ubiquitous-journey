@@ -1,0 +1,5 @@
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\publish\eazzy.exe
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\publish\eazzy.dll
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\publish\eazzy.deps.json
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\publish\eazzy.runtimeconfig.json
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\publish\eazzy.pdb

@@ -1,0 +1,15 @@
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\eazzy.exe
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\eazzy.deps.json
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\eazzy.runtimeconfig.json
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\eazzy.dll
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\ref\eazzy.dll
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\bin\Release\net6.0\eazzy.pdb
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.csproj.AssemblyReference.cache
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.AssemblyInfoInputs.cache
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.AssemblyInfo.cs
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.csproj.CoreCompileInputs.cache
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.dll
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\ref\eazzy.dll
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.pdb
+C:\Users\D.R.E.A.M.E.R\projects\eazzy\obj\Release\net6.0\eazzy.genruntimeconfig.cache
